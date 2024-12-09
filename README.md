@@ -1,5 +1,11 @@
 # NOOBXVAU Encryption Tool
 
+#First install this Package
+
+     pip install cryptography
+     pip install colorama
+
+
 ## Overview
 Welcome to the NOOBXVAU Encryption Tool, developed by MN SIDDIK. This tool allows you to encrypt and decrypt files using a password. The encryption uses the `cryptography` library with a secure symmetric encryption algorithm, `Fernet`.
 
