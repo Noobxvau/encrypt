@@ -1,9 +1,11 @@
 # NOOBXVAU Encryption Tool
 
-#First install this Package
+# First install this Package
 
      pip install cryptography
      pip install colorama
+     git clone https://github.com/Noobxvau/encrypt
+     
 
 
 ## Overview
